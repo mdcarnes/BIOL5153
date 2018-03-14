@@ -1,19 +1,19 @@
 Max Carnes-Mason
 =================
 
------------------------------------            ------------------------------
-916 E. Township St.                       |             mdcarnes@email.uark.edu
-Fayetteville AR, 72703                    |             @MaxCarnesMason
-USA	                                  |             555-208-4703
------------------------------------            ------------------------------
+------------------------------------------------------------------------
+
+916 E. Township St.  Fayetteville AR, 72703  USA	|	mdcarnes@email.uark.edu	 @MaxCarnesMason  614-208-4703
+
+-------------------------------------------------------------------------
 
 **Education**
 --------------
-M.S., Ecology, University of Arkansas, 2018 (expected)
+M.S., Ecology, **University of Arkansas**, 2018 (expected)
 
-B.S., Biology, Eckerd College, 2011
+B.S., Biology, **Eckerd College**, 2011
 
-International Baccalaureate Diploma, Columbus Alternative High School, 2009
+International Baccalaureate Diploma, **Columbus Alternative High School**, 2009
 Concentrations: Biology, Art
 
 **Employment**
@@ -112,11 +112,17 @@ Gel permeation chromatography, General Wet Lab Skills, Blood and Tissue Sampling
 **Other Skills and Qualifications**
 -------------------------------------
 Microsoft Suite
+
 Carpentry
+
 Masonry
+
 Excavation
+
 SCUBA
+
 ArcGIS
+
 
 **References**
 ----------------
